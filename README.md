@@ -24,7 +24,6 @@ Screenshot and Box are required!<br><br>
 
 See included screenshots for more help.<br><br>
 
-
-Next version will add Text as Image if no logo is present.<br>
+Next version will add Text as Image if no logo is present. (Optional)<br>
 Still have to figure out sizing on that. Some names are very long...<br>
 Custom User-Defined fonts too (ttf Files).<br><br>

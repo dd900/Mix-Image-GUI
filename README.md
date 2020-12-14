@@ -18,6 +18,7 @@ Box Art is pinned Bottom Left<br>
 Logo is pinned Bottom Right<br><br>
 
 Use Escape Key to close the Preview Window and change variables.<br>
+You can change any variable including images in between pressing the Preview Button.<br>
 You can only save if the Preview Window is open.<br><br>
 
 Screenshot and Box are required!<br><br>

@@ -17,6 +17,9 @@ Screenshot is pinned Top and Centered Horizontally<br>
 Box Art is pinned Bottom Left<br>
 Logo is pinned Bottom Right<br><br>
 
+Use Escape Key to close the Preview Window and change variables.<br>
+You can only save if the Preview Window is open.<br><br>
+
 Screenshot and Box are required!<br><br>
 
 See included screenshots for more help.<br><br>
